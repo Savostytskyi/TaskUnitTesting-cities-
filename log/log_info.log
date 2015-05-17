@@ -1,0 +1,107 @@
+
+2015-05-17 22:55:21 INFO  GameTest:29 - All parameters initialized
+2015-05-17 22:55:21 INFO  GameTest:35 - Prepare game test with parameters2 2
+2015-05-17 22:55:24 INFO  GameTest:35 - Prepare game test with parameters5 5
+2015-05-17 22:55:28 INFO  GameTest:42 - Prepare game test with parameters0 2
+2015-05-17 22:55:28 INFO  GameTest:42 - Prepare game test with parameters1 0
+2015-05-17 22:55:28 INFO  GameTest:42 - Prepare game test with parameters-6 7
+2015-05-17 22:55:28 INFO  GameTest:42 - Prepare game test with parameters18 7
+2015-05-17 22:56:28 INFO  GameTest:29 - All parameters initialized
+2015-05-17 22:56:39 INFO  GameTest:35 - Prepare game test with parameters2 2
+2015-05-17 22:57:34 INFO  GameTest:29 - All parameters initialized
+2015-05-17 22:57:34 INFO  GameTest:35 - Prepare game test with parameters2 2
+2015-05-17 22:57:37 INFO  GameTest:35 - Prepare game test with parameters5 5
+2015-05-17 22:57:41 INFO  GameTest:42 - Prepare game test with parameters0 2
+2015-05-17 22:57:41 INFO  GameTest:42 - Prepare game test with parameters1 0
+2015-05-17 22:57:41 INFO  GameTest:42 - Prepare game test with parameters-6 7
+2015-05-17 22:57:41 INFO  GameTest:42 - Prepare game test with parameters18 7
+2015-05-17 23:04:58 INFO  GameTest:29 - All parameters initialized
+2015-05-17 23:04:58 INFO  GameTest:35 - Prepare game test with parameters2 2
+2015-05-17 23:05:00 INFO  GameTest:35 - Prepare game test with parameters5 5
+2015-05-17 23:05:04 INFO  GameTest:42 - Prepare game test with parameters0 2
+2015-05-17 23:05:04 INFO  GameTest:42 - Prepare game test with parameters1 0
+2015-05-17 23:05:04 INFO  GameTest:42 - Prepare game test with parameters-6 7
+2015-05-17 23:05:04 INFO  GameTest:42 - Prepare game test with parameters18 7
+2015-05-17 23:15:23 INFO  GameTest:29 - All parameters initialized
+2015-05-17 23:15:23 INFO  GameTest:35 - Prepare game test with parameters2 2
+2015-05-17 23:15:34 INFO  GameTest:35 - Prepare game test with parameters5 5
+2015-05-17 23:15:45 INFO  GameTest:43 - Prepare game test with parameters0 2
+2015-05-17 23:15:45 INFO  GameTest:43 - Prepare game test with parameters1 0
+2015-05-17 23:15:45 INFO  GameTest:43 - Prepare game test with parameters-6 7
+2015-05-17 23:15:45 INFO  GameTest:43 - Prepare game test with parameters18 7
+2015-05-17 23:22:27 INFO  GameTest:29 - All parameters initialized
+2015-05-17 23:22:27 INFO  GameTest:35 - Prepare game test with parameters2 2
+2015-05-17 23:22:31 INFO  GameTest:35 - Prepare game test with parameters5 5
+2015-05-17 23:22:33 INFO  GameTest:43 - Prepare game test with parameters0 2
+2015-05-17 23:22:33 INFO  GameTest:43 - Prepare game test with parameters1 0
+2015-05-17 23:22:33 INFO  GameTest:43 - Prepare game test with parameters-6 7
+2015-05-17 23:22:33 INFO  GameTest:43 - Prepare game test with parameters18 7
+2015-05-17 23:23:42 INFO  GameTest:29 - All parameters initialized
+2015-05-17 23:23:42 INFO  GameTest:35 - Prepare game test with parametersnull null
+2015-05-17 23:23:42 INFO  GameTest:43 - Prepare game test with parameters0 2
+2015-05-17 23:23:42 INFO  GameTest:43 - Prepare game test with parameters1 0
+2015-05-17 23:23:42 INFO  GameTest:43 - Prepare game test with parameters-6 7
+2015-05-17 23:23:42 INFO  GameTest:43 - Prepare game test with parameters18 7
+2015-05-17 23:24:32 INFO  GameTest:29 - All parameters initialized
+2015-05-17 23:24:32 INFO  GameTest:35 - Prepare game test with parameters2 2
+2015-05-17 23:24:35 INFO  GameTest:35 - Prepare game test with parameters5 5
+2015-05-17 23:24:38 INFO  GameTest:43 - Prepare game test with parameters0 2
+2015-05-17 23:24:38 INFO  GameTest:43 - Prepare game test with parameters1 0
+2015-05-17 23:24:38 INFO  GameTest:43 - Prepare game test with parameters-6 7
+2015-05-17 23:24:38 INFO  GameTest:43 - Prepare game test with parameters18 7
+2015-05-17 23:25:21 INFO  GameTest:29 - All parameters initialized
+2015-05-17 23:25:21 INFO  GameTest:35 - Prepare game test with parameters-2 2
+2015-05-17 23:25:21 INFO  GameTest:35 - Prepare game test with parameters5 5
+2015-05-17 23:25:25 INFO  GameTest:43 - Prepare game test with parameters0 2
+2015-05-17 23:25:25 INFO  GameTest:43 - Prepare game test with parameters1 0
+2015-05-17 23:25:25 INFO  GameTest:43 - Prepare game test with parameters-6 7
+2015-05-17 23:25:25 INFO  GameTest:43 - Prepare game test with parameters18 7
+2015-05-17 23:27:32 INFO  GameTest:29 - All parameters initialized
+2015-05-17 23:27:32 INFO  GameTest:35 - Prepare game test with parameters2 2
+2015-05-17 23:27:34 INFO  GameTest:35 - Prepare game test with parameters5 5
+2015-05-17 23:27:37 INFO  GameTest:43 - Prepare game test with parameters0 2
+2015-05-17 23:27:37 INFO  GameTest:43 - Prepare game test with parameters1 0
+2015-05-17 23:27:37 INFO  GameTest:43 - Prepare game test with parameters-6 7
+2015-05-17 23:27:37 INFO  GameTest:43 - Prepare game test with parameters18 7
+2015-05-17 23:28:40 INFO  GameTest:29 - All parameters initialized
+2015-05-17 23:28:40 INFO  GameTest:35 - Prepare game test with parameters2 2
+2015-05-17 23:28:42 INFO  GameTest:35 - Prepare game test with parameters5 5
+2015-05-17 23:28:44 INFO  GameTest:43 - Prepare game test with parameters0 2
+2015-05-17 23:28:44 INFO  GameTest:43 - Prepare game test with parameters1 0
+2015-05-17 23:28:44 INFO  GameTest:43 - Prepare game test with parameters-6 7
+2015-05-17 23:28:44 INFO  GameTest:43 - Prepare game test with parameters18 7
+2015-05-17 23:29:29 INFO  GameTest:28 - All parameters initialized
+2015-05-17 23:29:29 INFO  GameTest:34 - Prepare game test with parameters2 2
+2015-05-17 23:29:31 INFO  GameTest:34 - Prepare game test with parameters5 5
+2015-05-17 23:29:33 INFO  GameTest:41 - Prepare game test with parameters0 2
+2015-05-17 23:29:33 INFO  GameTest:41 - Prepare game test with parameters1 0
+2015-05-17 23:29:33 INFO  GameTest:41 - Prepare game test with parameters-6 7
+2015-05-17 23:29:33 INFO  GameTest:41 - Prepare game test with parameters18 7
+2015-05-17 23:45:00 INFO  GameTest:31 - All parameters initialized
+2015-05-17 23:45:00 INFO  GameTest:45 - Prepare game test with parameters2 2
+2015-05-17 23:45:02 INFO  GameTest:45 - Prepare game test with parameters5 5
+2015-05-17 23:45:04 INFO  GameTest:52 - Prepare game test with parameters0 2
+2015-05-17 23:45:04 INFO  GameTest:52 - Prepare game test with parameters1 0
+2015-05-17 23:45:04 INFO  GameTest:52 - Prepare game test with parameters-6 7
+2015-05-17 23:45:04 INFO  GameTest:52 - Prepare game test with parameters18 7
+2015-05-17 23:45:26 INFO  GameTest:31 - All parameters initialized
+2015-05-17 23:45:26 INFO  GameTest:45 - Prepare game test with parameters2 2
+2015-05-17 23:45:27 INFO  GameTest:45 - Prepare game test with parameters5 5
+2015-05-17 23:45:29 INFO  GameTest:52 - Prepare game test with parameters0 2
+2015-05-17 23:45:29 INFO  GameTest:52 - Prepare game test with parameters1 0
+2015-05-17 23:45:29 INFO  GameTest:52 - Prepare game test with parameters-6 7
+2015-05-17 23:45:29 INFO  GameTest:52 - Prepare game test with parameters18 7
+2015-05-17 23:45:52 INFO  GameTest:31 - All parameters initialized
+2015-05-17 23:45:52 INFO  GameTest:45 - Prepare game test with parameters2 2
+2015-05-17 23:45:54 INFO  GameTest:45 - Prepare game test with parameters5 5
+2015-05-17 23:45:56 INFO  GameTest:52 - Prepare game test with parameters0 2
+2015-05-17 23:45:56 INFO  GameTest:52 - Prepare game test with parameters1 0
+2015-05-17 23:45:56 INFO  GameTest:52 - Prepare game test with parameters-6 7
+2015-05-17 23:45:56 INFO  GameTest:52 - Prepare game test with parameters18 7
+2015-05-17 23:46:33 INFO  GameTest:31 - All parameters initialized
+2015-05-17 23:46:33 INFO  GameTest:46 - Prepare game test with parameters2 2
+2015-05-17 23:46:34 INFO  GameTest:46 - Prepare game test with parameters5 5
+2015-05-17 23:46:36 INFO  GameTest:53 - Prepare game test with parameters0 2
+2015-05-17 23:46:36 INFO  GameTest:53 - Prepare game test with parameters1 0
+2015-05-17 23:46:36 INFO  GameTest:53 - Prepare game test with parameters-6 7
+2015-05-17 23:46:36 INFO  GameTest:53 - Prepare game test with parameters18 7
