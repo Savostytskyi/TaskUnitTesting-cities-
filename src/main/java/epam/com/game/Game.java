@@ -4,8 +4,6 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
 
-import org.apache.log4j.Logger;
-
 import epam.com.game.players.Computer;
 import epam.com.game.players.Human;
 import epam.com.game.players.Player;

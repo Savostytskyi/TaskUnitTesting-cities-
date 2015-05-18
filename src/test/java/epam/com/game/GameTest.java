@@ -35,10 +35,14 @@ public class GameTest {
 	@Test
 	public void buildTest() {
 		CitiesDBParser parsMock = EasyMock.createMock(CitiesDBParser.class);
-	
-		parsMock.cityesDocumentParser();
-		EasyMock.replay(parsMock);
+		ArrayList<String> cities = new ArrayList<String>();
+		cities.add("Kiev");
+		cities.add("Vladivostok");
+		//parsMock.cityesDocumentParser();
+		EasyMock.expect(parsMock.cityesDocumentParser()).andReturn(cities).anyTimes();
 		//EasyMock.verify(parsMock);
+		EasyMock.replay(parsMock);
+		EasyMock.verify(parsMock);
 	}
 	
 	@Test(description = "Initialaizin objects of players", dataProvider = "dpPlayersOne")

@@ -16,13 +16,12 @@ public class GameRunner {
 		try {
 		Player.cit = FactoryBuilder.createCitiesBuilder("DB");
 		Scanner playernum = new Scanner(System.in);
-
+		//System.out.println(Player.cit.size());
 
 			System.out.println("Enter the number of players HUMANS:");
 			humannum = playernum.nextInt();
 			System.out.println("Enter the number of players COMPUTERS:");
 			compnum = playernum.nextInt();
-			//boolean prepare = runner.prepareGame(humannum, compnum);
 			if(runner.prepareGame(humannum, compnum)) runner.theGame();
 			playernum.close();
 			
